@@ -124,7 +124,7 @@ color: rgb(143, 143, 240);
 .home{
     width: 100vw;
     height:100vh;
-    background-image: url(../Images/Backgrund30.jpg);
+    background-image: url(../images/Backgrund30.jpg);
     background-size: cover;
     position: relative;
     background-position: center;
